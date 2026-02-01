@@ -1,1 +1,0 @@
-print("void-core FIX")
