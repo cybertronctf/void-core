@@ -1,1 +1,1 @@
-print("void-core INSERT")
+print("void-core UPDATE")
